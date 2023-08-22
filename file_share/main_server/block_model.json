@@ -1,0 +1,6 @@
+{ 
+  "receiver": "receiver", 
+  "sender": "sender", 
+  "timestamp": "The time at which the content was created",
+  "filehash":"some_hash_value"
+}
